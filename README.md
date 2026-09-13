@@ -5,6 +5,15 @@ A simple iOS vehicle dashboard app built with **Swift, SwiftUI, and MVVM**. The 
 The project also focuses on some important production-level practices such as **Swift Concurrency, dependency injection, structured logging, and unit testing**.
 
 ---
+## 🎥 App Demo
+
+Here is a quick walkthrough of the Vehicle Dashboard app, showing the vehicle list, telemetry details, refresh functionality, and navigation flow.
+
+
+
+https://github.com/user-attachments/assets/061c121c-74c2-42c1-bd78-1e365a5953f4
+
+
 
 ## ✨ Features
 
